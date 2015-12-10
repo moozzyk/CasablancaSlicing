@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+#VS
+.vs/
+*.opensdf
+*.sdf
